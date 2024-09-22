@@ -1,0 +1,51 @@
+{
+  "originHash" : "79052de625b7015675a3e9483c691bda7a97c7c9dcdbe16291b5c93c15049c1e",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts.git",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "pinlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/layoutBox/PinLayout",
+      "state" : {
+        "revision" : "8eaa3a15e4dcabaca4c95aea4c0ff0c9b4a67213",
+        "version" : "1.10.5"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c04f5e401a1ec682e6b08b1ee157e19a0f834a5f",
+        "version" : "13.17.1"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "revision" : "933abaa8076966e237e66497def74df84c6adbb4",
+        "version" : "10.42.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b06a8c8596e4c3e8e7788e08e720e3248563ce6a",
+        "version" : "6.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
